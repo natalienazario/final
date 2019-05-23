@@ -1,0 +1,20 @@
+/* ================================
+        Base css
+================================ */
+.content-grid {
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". grid-content .";
+
+  .content-grid-item {
+    grid-area: grid-content;
+  }
+}
+
+.section-content {
+  padding: 50px 0;
+}
+
+p {
+  line-height: rem-calc(27);
+}

@@ -1,0 +1,19 @@
+/* ================================
+        Footer css
+================================ */
+footer{
+  background-color: $bluetext;
+  text-align: center;
+  padding: 51px 0;
+  span{
+    color: $white;
+  }
+  ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    li{
+      list-style: none;
+    }
+  }
+}
