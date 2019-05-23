@@ -132,6 +132,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/dev/img/venues/filmstrip.png": {
+		"ft": 32768,
+		"iS": 10790,
+		"oA": 0,
+		"oAP": "/dev/img/venues/filmstrip.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/dev/scss/base/_base.scss": {
 		"aP": 0,
 		"bl": 0,
