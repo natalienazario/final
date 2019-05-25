@@ -11,6 +11,16 @@ html {
 /* ================================
         Base css
 ================================ */
+.content-grid {
+  display: grid;
+  grid-template-columns: 30px auto 30px;
+  grid-template-areas: ". grid-content ."; }
+  .content-grid .content-grid-item {
+    grid-area: grid-content; }
+
+.section-content {
+  padding: 34px 0; }
+
 /* ================================
         Normalize css
 ================================ */
@@ -334,6 +344,20 @@ template {
 /* ================================
         Header css
 ================================ */
+header img {
+  width: 207px;
+  height: 125px; }
+
 /* ================================
         Footer css
 ================================ */
+/* ================================
+      Hero css
+================================ */
+#hero {
+  background-image: url("../dev/img/header/howtofest.jpg");
+  background-position: center;
+  background-size: cover; }
+  #hero h2 {
+    text-align: left;
+    font-size: 1.125rem; }
