@@ -355,7 +355,7 @@ header img {
       Hero css
 ================================ */
 #hero {
-  background-image: url("../dev/img/header/howtofest.jpg");
+  background-image: url("../img/header/howtofest.jpg");
   background-position: center;
   background-size: cover; }
   #hero h2 {
