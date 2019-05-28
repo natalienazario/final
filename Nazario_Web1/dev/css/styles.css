@@ -375,6 +375,8 @@ header img {
   background-repeat: no-repeat;
   height: 410px;
   text-align: right; }
+  #around h1 {
+    color: #FCC910; }
   #around article {
     margin-left: 44px; }
   #around #left {
