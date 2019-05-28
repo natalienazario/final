@@ -332,6 +332,21 @@ template {
 /* ================================
         Typography css
 ================================ */
+body {
+  font-family: "Fira Sans Extra Condensed", sans-serif;
+  line-height: 22px; }
+  body h1, body h2 {
+    font-weight: 700;
+    padding-bottom: 20px;
+    font-size: 1.9375rem;
+    letter-spacing: 0.05625rem; }
+  body p {
+    font-weight: 400;
+    font-size: 1.125rem; }
+  body ul {
+    list-style: none;
+    padding: 0; }
+
 /* ================================
         Buttons css
 ================================ */
@@ -351,6 +366,11 @@ header img {
 /* ================================
         Footer css
 ================================ */
+footer {
+  display: flex;
+  justify-content: flex-end;
+  background-color: #D8D8D8; }
+
 /* ================================
       Hero css
 ================================ */
@@ -363,7 +383,8 @@ header img {
   #hero h2 {
     text-align: right;
     font-size: 1.125rem;
-    color: #fff; }
+    color: #fff;
+    padding-left: 50px; }
 
 /* ================================
       Around css
@@ -374,15 +395,20 @@ header img {
   background-size: contain;
   background-repeat: no-repeat;
   height: 410px;
-  text-align: right; }
+  text-align: right;
+  margin-top: -45px; }
   #around h1 {
+    padding-top: 65px;
     color: #FCC910; }
   #around article {
-    margin-left: 44px; }
+    margin-left: 85px;
+    color: #fff; }
   #around #left {
+    padding-top: 22px;
     text-align: left;
-    margin-right: 56px;
-    margin-left: 0; }
+    margin-right: 96px;
+    margin-left: 0;
+    color: #000; }
 
 /* ================================
       Ticketing css
@@ -393,14 +419,41 @@ header img {
   background-position: center;
   background-size: cover;
   height: 405px;
-  margin-top: 55px; }
-  #ticketing article {
+  margin-top: -8px; }
+  #ticketing h1 {
+    margin-bottom: -20px; }
+  #ticketing #passes {
     background-color: #fff;
-    padding: 45px, 27px; }
+    margin-top: 45px;
+    margin-left: 33px;
+    margin-right: 33px;
+    padding-top: 23px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-bottom: 23px; }
+    #ticketing #passes span {
+      font-style: italic; }
+    #ticketing #passes #red {
+      font-style: normal;
+      color: #BB0101; }
 
 /* ================================
       Note css
 ================================ */
 #note {
   text-align: center;
-  background-color: #FCC910; }
+  background-color: #FCC910;
+  font-style: italic; }
+
+/* ================================
+      Venues css
+================================ */
+#venues {
+  text-align: center; }
+
+/* ================================
+      Film css
+================================ */
+#film {
+  text-align: right;
+  margin-top: 50px; }

@@ -131,6 +131,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/dev/img/ticketing/parkcity.jpg": {
+		"ft": 16384,
+		"iS": 90968,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/ticketing/parkcity.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/dev/img/venues/filmstrip.png": {
 		"ft": 32768,
 		"iS": 10790,
@@ -289,6 +300,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/dev/scss/sections/_around.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/dev/scss/sections/_film.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_film.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

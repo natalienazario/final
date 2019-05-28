@@ -1,3 +1,21 @@
 /* ================================
         Typography css
 ================================ */
+body{
+  font-family: "Fira Sans Extra Condensed", sans-serif;
+  line-height: 22px;
+  h1,h2{
+    font-weight: 700;
+    padding-bottom: 20px;
+    font-size: rem-calc(31);
+    letter-spacing: rem-calc(.9);
+  }
+  p{
+    font-weight: 400;
+    font-size: rem-calc(18);
+  }
+  ul{
+    list-style: none;
+    padding: 0;
+  }
+}

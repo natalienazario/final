@@ -8,16 +8,22 @@
   background-repeat: no-repeat;
   height: 410px;
   text-align: right;
+  margin-top: -45px;
+
   h1{
+    padding-top: 65px;
     color: $yellow;
   }
   article{
-    margin-left: 44px;
+    margin-left: 85px;
+    color: $white;
   }
 
   #left{
+    padding-top: 22px;
     text-align: left;
-    margin-right: 56px;
+    margin-right: 96px;
     margin-left: 0;
+    color: $black;
   }
 }
