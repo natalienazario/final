@@ -1,13 +1,14 @@
 /* ================================
       Hero css
 ================================ */
-#hero{
+#hero {
   background-image: url("../img/header/howtofest.jpg");
   background-position: center;
   background-size: cover;
   height: 220px;
   width: 100%;
-  h2{
+
+  h2 {
     text-align: right;
     font-size: rem-calc(18);
     color: $white;

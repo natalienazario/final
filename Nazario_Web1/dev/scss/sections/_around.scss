@@ -1,7 +1,7 @@
 /* ================================
       Around css
 ================================ */
-#around{
+#around {
   background-image: url("../img/around/Oval.svg");
   background-position: right;
   background-size: contain;
@@ -10,16 +10,17 @@
   text-align: right;
   margin-top: -45px;
 
-  h1{
+  h1 {
     padding-top: 65px;
     color: $yellow;
   }
-  article{
+
+  article {
     margin-left: 85px;
     color: $white;
   }
 
-  #left{
+  #left {
     padding-top: 22px;
     text-align: left;
     margin-right: 96px;

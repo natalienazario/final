@@ -1,32 +1,32 @@
 /* ================================
       Ticketing css
 ================================ */
-#ticketing{
+#ticketing {
   text-align: center;
   background-image: url("../img/ticketing/parkcity.jpg");
   background-position: center;
   background-size: cover;
-  height:405px;
+  height: 405px;
   margin-top: -8px;
-  h1{
+
+  h1 {
     margin-bottom: -20px;
   }
 
-  #passes{
-      background-color: $white;
-      margin-top: 45px;
-      margin-left: 33px;
-      margin-right: 33px;
-      padding-top: 23px;
-      padding-left: 28px;
-      padding-right: 28px;
-      padding-bottom: 23px;
-      span{
-        font-style: italic;
-      }
-      #red{
-        font-style: normal;
-        color: $red;
-      }
+  #passes {
+    background-color: $white;
+    margin-top: 45px;
+    margin-left: 33px;
+    margin-right: 33px;
+    padding: 23px 28px;
+
+    span {
+      font-style: italic;
     }
+
+    #red {
+      font-style: normal;
+      color: $red;
+    }
+  }
 }

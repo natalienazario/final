@@ -427,10 +427,7 @@ footer {
     margin-top: 45px;
     margin-left: 33px;
     margin-right: 33px;
-    padding-top: 23px;
-    padding-left: 28px;
-    padding-right: 28px;
-    padding-bottom: 23px; }
+    padding: 23px 28px; }
     #ticketing #passes span {
       font-style: italic; }
     #ticketing #passes #red {
@@ -457,3 +454,12 @@ footer {
 #film {
   text-align: right;
   margin-top: 50px; }
+
+/* ================================
+      Film css
+================================ */
+#egyptian {
+  background-image: url("../img/theaters/theater.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 243px; }
