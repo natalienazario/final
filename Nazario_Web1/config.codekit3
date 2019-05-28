@@ -70,7 +70,7 @@
 		},
 	"/dev/img/header/howtofest.jpg": {
 		"ft": 16384,
-		"iS": 108919,
+		"iS": 107102,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/dev/img/header/howtofest.jpg",
@@ -122,21 +122,10 @@
 		},
 	"/dev/img/theaters/theater.jpg": {
 		"ft": 16384,
-		"iS": 118362,
+		"iS": 114116,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/dev/img/theaters/theater.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/dev/img/ticketing/parkcity.jpg": {
-		"ft": 16384,
-		"iS": 100162,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/dev/img/ticketing/parkcity.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
