@@ -446,7 +446,8 @@ footer {
       Venues css
 ================================ */
 #venues {
-  text-align: center; }
+  text-align: center;
+  margin-top: -70px; }
 
 /* ================================
       Theaters css
@@ -457,7 +458,9 @@ footer {
   background-repeat: no-repeat;
   margin-top: -125px; }
   #theaters h1 {
-    padding-top: 60px; }
+    padding-top: 125px; }
+  #theaters p {
+    margin-right: 35px; }
 
 /* ================================
       Film css
@@ -467,7 +470,13 @@ footer {
   margin-top: 50px; }
 
 /* ================================
-      Film css
+      Film-2 css
+================================ */
+#film-2 {
+  text-align: left; }
+
+/* ================================
+      Egyptian css
 ================================ */
 #egyptian {
   background-image: url("../img/theaters/theater.jpg");
