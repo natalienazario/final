@@ -4,4 +4,29 @@
 #venues {
   text-align: center;
   margin-top: -70px;
+  ul{
+    margin-left: 0px;
+  }
+}
+
+
+a{
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:link, a:visited{
+  background-color: $yellow;
+  color: $black;
+  padding: 17px 32px;
+  margin-bottom: 10px;
+  border: 2px solid $black;
+  width:220px;
+  text-align: center;
+}
+
+a:hover, a:active{
+  border: 2px solid $black;
+  background: none;
+  color: $black;
 }
