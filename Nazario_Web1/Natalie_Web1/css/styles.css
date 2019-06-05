@@ -362,9 +362,9 @@ body {
 /* ================================
         Header css
 ================================ */
-header img {
-  width: 207px;
-  height: 125px; }
+img {
+  height: 80px;
+  padding: 10px 0; }
 
 /* ================================
         Footer css
@@ -381,16 +381,17 @@ footer {
 ================================ */
 #hero {
   background-image: url("../img/header/howtofest.jpg");
-  background-position: center;
+  background-position: right;
   background-size: cover;
   height: 220px;
   width: 100%; }
   #hero h2 {
-    margin-left: 100px;
+    margin-left: 70px;
     text-align: right;
-    font-size: 1.125rem;
+    font-size: 2.1875rem;
+    line-height: 2.5rem;
     color: #fff;
-    padding-left: 50px; }
+    padding-left: 10px; }
 
 /* ================================
       Around css
@@ -425,9 +426,12 @@ footer {
   background-position: center;
   background-size: cover;
   height: 405px;
-  margin-top: -8px; }
+  margin-top: -15px; }
   #ticketing h1 {
     margin-bottom: -20px; }
+  #ticketing p {
+    margin-left: 10px;
+    margin-right: 10px; }
   #ticketing #passes {
     background-color: #fff;
     margin-top: 45px;
@@ -482,7 +486,7 @@ a:hover, a:active {
   background-image: url("../img/theaters/oval.svg");
   background-position: left;
   background-repeat: no-repeat;
-  margin-top: -125px; }
+  margin-top: -135px; }
   #theaters h1 {
     padding-top: 125px; }
   #theaters p {
@@ -493,13 +497,19 @@ a:hover, a:active {
 ================================ */
 #film {
   text-align: right;
-  margin-top: 50px; }
+  margin-top: 10px; }
+  #film img {
+    width: 183px;
+    height: 227px; }
 
 /* ================================
       Film-2 css
 ================================ */
 #film-2 {
   text-align: left; }
+  #film-2 img {
+    width: 233px;
+    height: 270px; }
 
 /* ================================
       Egyptian css

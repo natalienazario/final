@@ -17,161 +17,161 @@
 		"oAP": "/design/sundance-film-festival.sketch",
 		"oF": 0
 		},
-	"/dev/css/styles.css": {
+	"/Natalie_Web1/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/dev/css/styles-min.css",
+		"oAP": "/Natalie_Web1/css/styles-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/dev/img/around/filmstrip.png": {
+	"/Natalie_Web1/img/around/filmstrip.png": {
 		"ft": 32768,
 		"iS": 9616,
 		"oA": 0,
-		"oAP": "/dev/img/around/filmstrip.png",
+		"oAP": "/Natalie_Web1/img/around/filmstrip.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dev/img/around/filmstrip.svg": {
+	"/Natalie_Web1/img/around/filmstrip.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/dev/img/around/filmstrip.svg",
+		"oAP": "/Natalie_Web1/img/around/filmstrip.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/dev/img/around/Oval.svg": {
+	"/Natalie_Web1/img/around/Oval.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/dev/img/around/Oval.svg",
+		"oAP": "/Natalie_Web1/img/around/Oval.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/dev/img/header/filmer.svg": {
+	"/Natalie_Web1/img/header/filmer.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/dev/img/header/filmer.svg",
+		"oAP": "/Natalie_Web1/img/header/filmer.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/dev/img/header/howtofest.jpg": {
+	"/Natalie_Web1/img/header/howtofest.jpg": {
 		"ft": 16384,
 		"iS": 107102,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/dev/img/header/howtofest.jpg",
+		"oAP": "/Natalie_Web1/img/header/howtofest.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/dev/img/header/logo.svg": {
+	"/Natalie_Web1/img/header/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/dev/img/header/logo.svg",
+		"oAP": "/Natalie_Web1/img/header/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/dev/img/notix/fever.jpg": {
+	"/Natalie_Web1/img/notix/fever.jpg": {
 		"ft": 16384,
 		"iS": 72390,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/dev/img/notix/fever.jpg",
+		"oAP": "/Natalie_Web1/img/notix/fever.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/dev/img/notix/filmstrip.svg": {
+	"/Natalie_Web1/img/notix/filmstrip.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/dev/img/notix/filmstrip.svg",
+		"oAP": "/Natalie_Web1/img/notix/filmstrip.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/dev/img/theaters/oval.svg": {
+	"/Natalie_Web1/img/theaters/oval.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/dev/img/theaters/oval.svg",
+		"oAP": "/Natalie_Web1/img/theaters/oval.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/dev/img/theaters/theater.jpg": {
+	"/Natalie_Web1/img/theaters/theater.jpg": {
 		"ft": 16384,
 		"iS": 114116,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/dev/img/theaters/theater.jpg",
+		"oAP": "/Natalie_Web1/img/theaters/theater.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/dev/img/ticketing/parkcity.jpg": {
+	"/Natalie_Web1/img/ticketing/parkcity.jpg": {
 		"ft": 16384,
 		"iS": 90968,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/dev/img/ticketing/parkcity.jpg",
+		"oAP": "/Natalie_Web1/img/ticketing/parkcity.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/dev/img/venues/filmstrip.png": {
+	"/Natalie_Web1/img/venues/filmstrip.png": {
 		"ft": 32768,
 		"iS": 10790,
 		"oA": 0,
-		"oAP": "/dev/img/venues/filmstrip.png",
+		"oAP": "/Natalie_Web1/img/venues/filmstrip.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/dev/img/venues/filmstrip2.svg": {
+	"/Natalie_Web1/img/venues/filmstrip2.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/dev/img/venues/filmstrip2.svg",
+		"oAP": "/Natalie_Web1/img/venues/filmstrip2.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"/dev/index.html": {
+	"/Natalie_Web1/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/dev/index.html",
+		"oAP": "/Natalie_Web1/index.html",
 		"oF": 0
 		},
-	"/dev/scss/base/_base.scss": {
+	"/Natalie_Web1/scss/base/_base.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -179,12 +179,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/base/_base.css",
+		"oAP": "/Natalie_Web1/scss/base/_base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/base/_normalize.scss": {
+	"/Natalie_Web1/scss/base/_normalize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -192,12 +192,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/base/_normalize.css",
+		"oAP": "/Natalie_Web1/scss/base/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/base/_typography.scss": {
+	"/Natalie_Web1/scss/base/_typography.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -205,12 +205,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/base/_typography.css",
+		"oAP": "/Natalie_Web1/scss/base/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/components/_buttons.scss": {
+	"/Natalie_Web1/scss/components/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -218,12 +218,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/components/_buttons.css",
+		"oAP": "/Natalie_Web1/scss/components/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/components/_forms.scss": {
+	"/Natalie_Web1/scss/components/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -231,12 +231,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/components/_forms.css",
+		"oAP": "/Natalie_Web1/scss/components/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/components/_navigation.scss": {
+	"/Natalie_Web1/scss/components/_navigation.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -244,12 +244,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/components/_navigation.css",
+		"oAP": "/Natalie_Web1/scss/components/_navigation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/helpers/_mixins.scss": {
+	"/Natalie_Web1/scss/helpers/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -257,12 +257,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/helpers/_mixins.css",
+		"oAP": "/Natalie_Web1/scss/helpers/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/helpers/_variables.scss": {
+	"/Natalie_Web1/scss/helpers/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -270,12 +270,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/helpers/_variables.css",
+		"oAP": "/Natalie_Web1/scss/helpers/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/layout/_footer.scss": {
+	"/Natalie_Web1/scss/layout/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -283,12 +283,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/layout/_footer.css",
+		"oAP": "/Natalie_Web1/scss/layout/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/layout/_header.scss": {
+	"/Natalie_Web1/scss/layout/_header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -296,12 +296,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/layout/_header.css",
+		"oAP": "/Natalie_Web1/scss/layout/_header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/sections/_around.scss": {
+	"/Natalie_Web1/scss/sections/_around.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -309,12 +309,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_around.css",
+		"oAP": "/Natalie_Web1/scss/sections/_around.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/sections/_egyptian.scss": {
+	"/Natalie_Web1/scss/sections/_egyptian.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -322,12 +322,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_egyptian.css",
+		"oAP": "/Natalie_Web1/scss/sections/_egyptian.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/sections/_film-2.scss": {
+	"/Natalie_Web1/scss/sections/_film-2.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -335,12 +335,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_film-2.css",
+		"oAP": "/Natalie_Web1/scss/sections/_film-2.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/sections/_film.scss": {
+	"/Natalie_Web1/scss/sections/_film.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -348,12 +348,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_film.css",
+		"oAP": "/Natalie_Web1/scss/sections/_film.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/sections/_hero.scss": {
+	"/Natalie_Web1/scss/sections/_hero.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -361,12 +361,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_hero.css",
+		"oAP": "/Natalie_Web1/scss/sections/_hero.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/sections/_note.scss": {
+	"/Natalie_Web1/scss/sections/_note.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -374,12 +374,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_note.css",
+		"oAP": "/Natalie_Web1/scss/sections/_note.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/sections/_theaters.scss": {
+	"/Natalie_Web1/scss/sections/_theaters.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -387,12 +387,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_theaters.css",
+		"oAP": "/Natalie_Web1/scss/sections/_theaters.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/sections/_ticketing.scss": {
+	"/Natalie_Web1/scss/sections/_ticketing.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -400,12 +400,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_ticketing.css",
+		"oAP": "/Natalie_Web1/scss/sections/_ticketing.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/sections/_venues.scss": {
+	"/Natalie_Web1/scss/sections/_venues.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -413,12 +413,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_venues.css",
+		"oAP": "/Natalie_Web1/scss/sections/_venues.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/styles.scss": {
+	"/Natalie_Web1/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -426,7 +426,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/dev/css/styles.css",
+		"oAP": "/Natalie_Web1/css/styles.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1

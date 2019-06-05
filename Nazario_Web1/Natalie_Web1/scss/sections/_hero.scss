@@ -3,16 +3,17 @@
 ================================ */
 #hero {
   background-image: url("../img/header/howtofest.jpg");
-  background-position: center;
+  background-position: right;
   background-size: cover;
   height: 220px;
   width: 100%;
 
   h2 {
-    margin-left: 100px;
+    margin-left: 70px;
     text-align: right;
-    font-size: rem-calc(18);
+    font-size: rem-calc(35);
+    line-height: rem-calc(40);
     color: $white;
-    padding-left: 50px;
+    padding-left: 10px;
   }
 }
